@@ -1,0 +1,18 @@
+.header_first-box{
+    height: 100px;
+    background-color: chartreuse;
+    position: relative;
+    top: 50px;
+}
+
+.header_second-box{
+    height: 100px;
+    background-color: chartreuse;
+    opacity: 0.5;
+
+}
+
+.label{
+
+}
+
